@@ -64,3 +64,7 @@ button:focus-visible {
 li {
   list-style: none;
 }
+
+p {
+  cursor: pointer;
+}
